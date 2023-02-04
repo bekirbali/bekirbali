@@ -1,5 +1,3 @@
-<img src="https://media.tenor.com/DjFgsyrrHFAAAAAC/code.gif" align="right" width="450" height="300"></br>
-
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -39,7 +37,7 @@
 </p>
 
 <h2 align="center">💡Most Used Languages</h2>
-![](https://komarev.com/ghpvc/?username=bekirbali&color=green)
+[![](https://komarev.com/ghpvc/?username=bekirbali&color=green)]
 <div  align="center">
 <br/>
 <img
