@@ -3,11 +3,15 @@
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- Hi, I’m @bekirbali. I am studying Electrical Engineering.
+- 👀 I’m aiming to be a Front-End Web Developer.
+- 🌱 I’m currently using Html-Css, JavaScript, React.JS, Scss, Bootstrap.
+- 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, React**
+- 💬 Ask me about **JavaScript, HTML, CSS and ReactJs.**
 
 - 📫 How to reach me **bfbali43@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
