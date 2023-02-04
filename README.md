@@ -37,7 +37,6 @@
 </p>
 
 <h2 align="center">💡Most Used Languages</h2>
-[![](https://komarev.com/ghpvc/?username=bekirbali&color=green)]
 <div  align="center">
 <br/>
 <img
