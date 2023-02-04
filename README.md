@@ -45,5 +45,5 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=blue-green"
      alt=""
      /> <br/>
-     ![](https://komarev.com/ghpvc/?username=Yasin-Yilmazz) 
+     [!](https://komarev.com/ghpvc/?username=bekirbali) 
 </div>
