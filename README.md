@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/DjFgsyrrHFAAAAAC/code.gif" align="right" width="400"></br>
+
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
