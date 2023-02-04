@@ -39,16 +39,15 @@
 </p>
 
 <h2 align="center">💡Most Used Languages</h2>
+![](https://komarev.com/ghpvc/?username=bekirbali&color=green)
 <div  align="center">
 <br/>
 <img
      src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=blue-green"
-     alt=""
+     alt="bekirbali"
      /> </br></br></br>
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=blue-green"
-     alt=""
-     /> <br/>
-     
+     alt="bekirbali"
+     /> <br/>    
 </div>
-![](https://komarev.com/ghpvc/?username=bekirbali&color=green)
