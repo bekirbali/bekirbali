@@ -20,11 +20,11 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=bengin34&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengin34&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=blue-green"
      alt=""
      /> <br/>
 </div>
