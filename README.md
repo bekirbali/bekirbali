@@ -40,7 +40,7 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=blue-green"
+     src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"
      alt="bekirbali"
      /> </br></br></br>
 <img
