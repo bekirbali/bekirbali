@@ -44,7 +44,7 @@
      alt="bekirbali"
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&hide_progress=true"
      alt="bekirbali"
      /> <br/>    
 </div>
