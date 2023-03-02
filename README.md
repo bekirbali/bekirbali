@@ -39,10 +39,7 @@
 <h2 align="center">💡Most Used Languages</h2>
 <div  align="center">
 <br/>
-<img
-     src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"
-     alt="bekirbali"
-     /> </br></br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) </br></br></br>
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=blue-green"
      alt="bekirbali"
