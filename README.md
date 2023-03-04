@@ -3,7 +3,7 @@
 
 - Hi, I’m @bekirbali. I am studying Electrical Engineering.
 - 👀 I’m aiming to be a Front-End Web Developer.
-- 🌱 I’m currently using Html-Css, JavaScript, React.JS, Scss, Bootstrap.
+- 🌱 I’m currently using Html-Css, JavaScript, React.JS, Scss, Tailwind, Bootstrap.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
 - 💬 Ask me about **JavaScript, HTML, CSS and ReactJs.**
