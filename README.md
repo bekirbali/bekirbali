@@ -15,7 +15,7 @@
 - 📫 How to reach me **bfbali43@gmail.com**
 </p>
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><h3 align="left">Connect with me:</h3>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Connect With Me:</b>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekirbali/)
 
