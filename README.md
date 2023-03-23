@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 - Hi, I’m @bekirbali. I am studying Electrical Engineering.
 - 👀 I’m aiming to be a Front-End Web Developer.
 - 🌱 I’m currently using Html-Css, JavaScript, React.JS, Scss, Tailwind, Bootstrap.
