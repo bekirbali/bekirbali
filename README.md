@@ -50,6 +50,6 @@
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=radical&langs_count=6"
      alt="bekirbali"
-     /> <br/>    
+     /><br/>    
      
 </div>
