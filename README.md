@@ -3,7 +3,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
+
+<picture> <img  height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></picture>
 
 - Hi, I’m @bekirbali. I am studying Electrical Engineering.
 - 👀 I’m aiming to be a Front-End Web Developer.
