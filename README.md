@@ -52,7 +52,7 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=bekirbali&show_icons=true&theme=gruvbox"
+     src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=gruvbox"
      alt="bekirbali"
      /> </br></br></br>
 <img
