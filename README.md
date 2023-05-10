@@ -52,11 +52,11 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=gruvbox"
+     src="https://github-readme-stats.vercel.app/api?username=bekirbali&theme=radical"
      alt="bekirbali"
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=gruvbox&langs_count=6&show_icons=true"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=radical&langs_count=6&show_icons=true"
      alt="bekirbali"
      /><br/>    
      
