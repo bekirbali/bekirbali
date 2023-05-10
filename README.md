@@ -56,7 +56,7 @@
      alt="bekirbali"
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=gruvbox&langs_count=6"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=gruvbox&langs_count=6&show_icons=true"
      alt="bekirbali"
      /><br/>    
      
