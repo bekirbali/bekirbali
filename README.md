@@ -56,12 +56,15 @@
      alt="bekirbali"
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=radical&langs_count=6"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=radical&langs_count=6&show_icons=true"
      alt="bekirbali"
-     /><br/>    
+     /><br/>
+
+     <!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <!-- <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=radical&langs_count=6"
      alt="bekirbali"
      /><br/>     -->
-     
+
 </div>
