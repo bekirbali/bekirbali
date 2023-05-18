@@ -55,13 +55,13 @@
      src="https://github-readme-stats.vercel.app/api?username=bekirbali&show_icons=true&theme=radical"
      alt="bekirbali"
      /> </br></br></br>
-<!-- <img
+<img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&exclude_repo=bekirbali.github.io&theme=radical&langs_count=6"
      alt="bekirbali"
-     /><br/>     -->
-<img
+     /><br/>    
+<!-- <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=radical&langs_count=6"
      alt="bekirbali"
-     /><br/>    
+     /><br/>     -->
      
 </div>
