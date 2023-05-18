@@ -60,8 +60,6 @@
      alt="bekirbali"
      /><br/>
 
-     <!-- https://github.com/anuraghazra/github-readme-stats -->
-
 <!-- <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirbali&theme=radical&langs_count=6"
      alt="bekirbali"
