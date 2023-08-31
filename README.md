@@ -9,7 +9,6 @@
 
 <picture> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></picture>
 
-- Hi, I’m @bekirbali. I am studying Electrical Engineering.
 - 👀 Hi, I’m @bekirbali. I’m a Front-End Web Developer.
 - 🌱 I’m currently using Html-Css, JavaScript, React.JS, Scss, Tailwind, Bootstrap.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
