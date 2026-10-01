@@ -38,7 +38,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,slack,postman,netlify" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,discord,postman,netlify" alt="Tools" />
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" />
   </a>
 </p>
 
